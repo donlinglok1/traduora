@@ -15,7 +15,7 @@
   },
   "dependencies": {
     "@nest-middlewares/morgan": "^5.1.1",
-    "@nestjs/common": "^5.1.0",
+    "@nestjs/common": "^9.0.0",
     "@nestjs/core": "^5.1.0",
     "@nestjs/jwt": "^0.1.3",
     "@nestjs/passport": "^5.1.0",
