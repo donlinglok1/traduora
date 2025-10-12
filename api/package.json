@@ -35,7 +35,7 @@
     "moment": "^2.22.2",
     "mysql": "^2.16.0",
     "node-native2ascii": "^0.2.0",
-    "nodemailer": "^5.1.1",
+    "nodemailer": "^7.0.7",
     "passport": "^0.4.0",
     "passport-jwt": "^4.0.0",
     "properties": "^1.2.1",
